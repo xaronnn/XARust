@@ -1,0 +1,37 @@
+{
+  "name": "xarust",
+  "version": "1.0.0",
+  "description": "Customized multifunctional Discord bot for Rust game.",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "discord-giveaways": "^4.5.1",
+    "fs": "^0.0.1-security",
+    "i18n": "^0.13.3",
+    "ms": "^2.1.3",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "webrconjs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaronnn/XARust.git"
+  },
+  "keywords": [
+    "XARON",
+    "Rust",
+    "XARust"
+  ],
+  "author": "Uğur \"XARON\" Pekesen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xaronnn/XARust/issues"
+  },
+  "homepage": "https://github.com/xaronnn/XARust#readme"
+}

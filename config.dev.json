@@ -1,0 +1,106 @@
+{
+  "dev": true,
+  "steamApiKey": "",
+  "paymentApiDetails": {
+    "key": "",
+    "secret": ""
+  },
+  "message": "",
+  "emojis": {
+    "punishment": {
+      "mute": "",
+      "ban": "",
+      "kick": ""
+    },
+    "giveaway": {
+      "yes": "",
+      "no": ""
+    },
+    "times": {
+      "minute": "",
+      "hour": "",
+      "day": "",
+      "week": "",
+      "month": "",
+      "year": "",
+      "permanent": ""
+    },
+    "numbers": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "0": ""
+    }
+  },
+  "bots": [
+    {
+      "language": "tr",
+	  "owner": "450421563267874817",
+      "serverName": "XARON Local",
+      "botToken": "REDACTED",
+      "botPrefix": ".",
+      "rconHost": "RE.DAC.T.ED",
+      "rconPort": 28016,
+      "rconPassword": "REDACTED",
+      "isEnabled": true,
+      "game": "rust",
+      "guild": "myServer",
+      "enableGiveaway": true,
+	  "presence": {
+		"status": "IDLE",
+		"activity": {
+			"action": "COMPETING",
+			"messages": ["playdoh"]
+		}
+	  },
+      "channels": {
+        "typing": {
+          "whitelistedRoles": [],
+          "deniedRoles": [],
+          "discordChannelId": "",
+          "enabled": true
+        },
+        "killFeed": {
+          "whitelistedRoles": [],
+          "deniedRoles": [],
+          "discordChannelId": "",
+          "enabled": true
+        },
+        "chat": {
+          "whitelistedRoles": [],
+          "deniedRoles": [],
+          "discordChannelId": "",
+          "discordChat": false,
+          "enabled": true
+        },
+        "coreLog": {
+          "whitelistedRoles": [],
+          "deniedRoles": [],
+          "discordChannelId": ""
+        },
+        "punishmentLog": {
+          "whitelistedRoles": [],
+          "deniedRoles": [],
+          "discordChannelId": "",
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "guilds": [
+    {
+      "key": "myServer",
+      "guildId": ""
+    },
+    {
+      "key": "testServer",
+      "guildId": ""
+    }
+  ]
+}
