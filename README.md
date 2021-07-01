@@ -1,5 +1,7 @@
-# XARust
+# XARust (Project heavily under development.)
 Customized multifunctional Discord bot for Rust game.
+
+
 
 
 # 🏃‍♀️ Running
